@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Globalization;
 
+//https://t.me/Bleak671
+
 namespace L6
 {
     class Program
